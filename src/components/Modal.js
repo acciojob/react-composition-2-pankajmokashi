@@ -1,4 +1,4 @@
-
+import React from "react"
 const Modal = ({onClose}) => {
     return(
         <div className="modal-overlay">
